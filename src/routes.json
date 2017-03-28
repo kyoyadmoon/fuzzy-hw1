@@ -1,6 +1,6 @@
 [
   {
-    "path": "/",
+    "path": "*",
     "page": "./home",
     "chunk": "main",
     "data": {
